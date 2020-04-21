@@ -29,3 +29,5 @@ composer require opentok/opentok​
 ```
 
 more at https://www.learn2torials.com/a/how-to-setup-opentok-api-with-laravel
+
+for front end use this link https://tokbox.com/developer/tutorials/web/basic-video-chat/#requirements
